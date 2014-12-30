@@ -26,8 +26,12 @@ namespace Program
 
 
 ----------------------------------------
-Enter the First Number : 23
-Enter the Second Number : 25
+Enter the First Number : 25
+Enter the Second Number : 23
 After Swapping :
-First Number : 25
-Second Number : 23
+
+
+First Number : 23
+Second Number : 25
+
+Third not value
